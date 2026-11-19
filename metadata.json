@@ -1,0 +1,6 @@
+{
+  "name": "PROCOLMAT — Prototipo Asistente Virtual WhatsApp",
+  "description": "Prototipo interactivo de interfaz y flujo conversacional local para el asistente virtual de PROCOLMAT (Productora Colombiana de Materiales).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
